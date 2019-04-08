@@ -7,7 +7,7 @@
 <p><a href="https://joaopereirawd.github.io/animatedModal.js/">animatedModal.js</a> - Fullscreen clean and slick modals</p>
 <p><a href="http://jquerymy.com/">jQueryMy</a> - Realtime updating JS with inputs</p>
 <p><a href="https://github.com/alizahid/slinky">Slinky</a> - Freakin nice menu</p>
-<p>🔥🔥 <a href="http://is.js.org/#url">is.js</a> - Super easy "shortcuts" like validate email or url with regexp, check if browser is edge or device is mobile, string formatting and a lot more 🔥🔥</p>
+<p>🔥🔥 <a href="http://is.js.org/#url">is.js</a> 🔥🔥 - Super easy "shortcuts" like validate email or url with regexp, check if browser is edge or device is mobile, string formatting and a lot more</p>
 <p><a href="http://js-socials.com/demos/">Responsive Social Icons</a> - Super nice social network sharing buttons which are very pretty and responsive</p>
 
 <h3>👍 Helpful Tutorials</h3>
