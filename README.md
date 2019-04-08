@@ -18,4 +18,5 @@
 <p><a href="https://github.com/moklick/frontend-stuff">Frontend-stuff</a> A list with a lot more useful libraries</p>
 
 <h1> CSS Goodies </h1>
-<p><a href="http://getskeleton.com/?">Get Skeleton</a>Super nice clean ui</p>
+<p><a href="http://getskeleton.com/?">Get Skeleton</a> - Super nice clean ui</p>
+<p><a href="https://milligram.io/">Milligram</a> - Another super clean UI</p>
