@@ -1,4 +1,4 @@
-# usefulllibrariesframeworksandmisc
+# JSS/CSS Libraries/Tools/Misc Stuff that seem useful but I will forget that they exist when I need them
 
 <h1>Javascript Libraries</h1>
 
