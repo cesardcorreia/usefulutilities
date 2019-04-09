@@ -20,6 +20,8 @@
 <h1> CSS Goodies </h1>
 <p><a href="http://getskeleton.com/?">Get Skeleton</a> - Super nice clean ui</p>
 <p><a href="https://milligram.io/">Milligram</a> - Another super clean UI</p>
+http://fancyapps.com/fancybox/3/
+https://dimsemenov.com/plugins/magnific-popup/
 
 <h1>Laravel Utilities</h1>
 <p><a href="https://laravel-news.com/eloquent-tips-tricks">Eloquent Tips and Tricks</a> - Has nice useful tricks for simple tasks in eloquent</p>
