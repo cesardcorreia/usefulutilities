@@ -23,4 +23,4 @@
 
 <h1>Laravel Utilities</h1>
 <p><a href="https://laravel-news.com/eloquent-tips-tricks">Eloquent Tips and Tricks</a> - Has nice useful tricks for simple tasks in eloquent</p>
-<p><a href="https://code.tutsplus.com/tutorials/25-laravel-tips-and-tricks--pre-92818">Eloquent Tips and Tricks</a> - Has nice useful tricks for simple tasks in eloquent</p>
+<p><a href="https://code.tutsplus.com/tutorials/25-laravel-tips-and-tricks--pre-92818">Eloquent Tips and Tricks</a> - More nice and useful tricks</p>
