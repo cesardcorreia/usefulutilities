@@ -26,3 +26,15 @@ https://dimsemenov.com/plugins/magnific-popup/
 <h1>Laravel Utilities</h1>
 <p><a href="https://laravel-news.com/eloquent-tips-tricks">Eloquent Tips and Tricks</a> - Has nice useful tricks for simple tasks in eloquent</p>
 <p><a href="https://code.tutsplus.com/tutorials/25-laravel-tips-and-tricks--pre-92818">Eloquent Tips and Tricks</a> - More nice and useful tricks</p>
+
+
+//to format
+https://codepen.io/erikterwan/pen/EVzeRP/
+https://github.com/svenluijten/artisan-view
+https://www.ably.io/pricing 
+https://www.scaledrone.com/pricing
+http://dixso.github.io/custombox/
+https://github.com/nefe/You-Dont-Need-jQuery#query-selector
+https://editorjs.io/saving-data
+https://medium.com/@thesourav/organize-your-laravel-routes-for-better-and-maintainable-code-4ad9b76aed0f
+https://github.com/RobinHerbots/Inputmask
