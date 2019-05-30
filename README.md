@@ -12,6 +12,7 @@
 <p><a href="https://editorjs.io/">Editorjs</a> - Awesome block style editor</p>
 <p><a href="https://github.com/RobinHerbots/Inputmask">InputMask</a> - Easy to use with lots of possibilities input mask</p>
 <p><a href="http://bootboxjs.com/examples.html">Bootbox.js</a> - Awesome dialog boxes</p>
+<p><a href="https://github.com/uNmAnNeR/imaskjs/tree/master/packages/vue-imask">vue-imask</a> - awesome vuejs input mask</p>
 
 <h3>👍 Helpful Tutorials</h3>
 <p><a href="https://github.com/jquery-boilerplate/jquery-patterns">jQuery Patterns</a> - Usefull tutorial to build a plugin with the basic essencials</p>
