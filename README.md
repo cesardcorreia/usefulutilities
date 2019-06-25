@@ -38,3 +38,4 @@
 <h1>Utils</h1>
 <p><a href="https://www.ably.io/pricing">Ably</a> - Like Pusher but with decent prices</p>
 <p><a href="https://www.scaledrone.com/pricing">Scaledrone</a> - Even cheaper prices but less free advantages</p>
+<p><a href="https://github.com/aniftyco/awesome-tailwindcss"> Awesome TailwindCSS </a> - Curated list of usefull links of tailwindcss
